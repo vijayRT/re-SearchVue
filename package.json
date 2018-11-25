@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "lodash": "^4.17.11",
     "vue": "^2.5.3",
+    "vue-autosuggest": "^1.7.3",
     "vuetify": "^1.0.0"
   },
   "devDependencies": {
